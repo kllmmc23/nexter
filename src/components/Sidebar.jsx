@@ -1,7 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const Sidebar = () => {
-    return <div className="sidebar">SIDEBAR</div>;
-}
+  return (
+    <div className="sidebar">
+          <button className="nav-btn">
+              
+      </button>
+    </div>
+  );
+};
 
 export default Sidebar;
